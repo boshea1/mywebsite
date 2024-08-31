@@ -1,7 +1,7 @@
 {
   "name": "mywebsite",
   "version": "0.1.0",
-  "homepage": "https://boshea1.github.io/mywebsite/index.html",
+  "homepage": "https://boshea1.github.io/mywebsite",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
