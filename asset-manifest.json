@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mywebsite/static/css/main.deb9bb16.css",
-    "main.js": "/mywebsite/static/js/main.0378e6e6.js",
+    "main.css": "/mywebsite/static/css/main.e4fdae6c.css",
+    "main.js": "/mywebsite/static/js/main.b7ef3775.js",
     "static/js/453.55b13b6f.chunk.js": "/mywebsite/static/js/453.55b13b6f.chunk.js",
     "static/media/rentalwebsitedemo.mp4": "/mywebsite/static/media/rentalwebsitedemo.2ffc060a088fca7fd3ad.mp4",
     "static/media/crown-clothingdemo.mp4": "/mywebsite/static/media/crown-clothingdemo.2cb777823be80fd506b9.mp4",
     "static/media/meandrubes.jpeg": "/mywebsite/static/media/meandrubes.4d4295443700009ebd63.jpeg",
     "static/media/low-poly-grid-haikei.svg": "/mywebsite/static/media/low-poly-grid-haikei.6eb66dfe2fd4a5b8f935.svg",
     "index.html": "/mywebsite/index.html",
-    "main.deb9bb16.css.map": "/mywebsite/static/css/main.deb9bb16.css.map",
-    "main.0378e6e6.js.map": "/mywebsite/static/js/main.0378e6e6.js.map",
+    "main.e4fdae6c.css.map": "/mywebsite/static/css/main.e4fdae6c.css.map",
+    "main.b7ef3775.js.map": "/mywebsite/static/js/main.b7ef3775.js.map",
     "453.55b13b6f.chunk.js.map": "/mywebsite/static/js/453.55b13b6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.deb9bb16.css",
-    "static/js/main.0378e6e6.js"
+    "static/css/main.e4fdae6c.css",
+    "static/js/main.b7ef3775.js"
   ]
 }
