@@ -92,6 +92,7 @@ function App() {
         <li>TailwindCSS</li>
         <li>Firebase Authentication</li>
         <li>Firebase Firestore</li>
+        <li>Python</li>
         <li>amongst other technologies...</li>
         </ul>
       </div>
@@ -112,11 +113,12 @@ function App() {
       <p>I am currently looking for Full Time work as a Junior React Developer...
       </p>
       <p>
-      Preferably remote due to home circumstances, but hybrid work as well would be suitable.
+      Preferably remote due to home circumstances, but hybrid work would be suitable as well.
+      </p>
+      <p>If your company has a specific stack that I haven't listed I am able to learn other technologies and frameworks quickly.
       </p>
       <p>
           My github is https://github.com/boshea1
-          <br/>
           </p>
       </div>
       </div>
@@ -131,6 +133,7 @@ function App() {
           <h1>
           RentalWebsite Demo
           </h1>
+          <p>NextJS, TailwindCSS, Firebase Authentication</p>
           <br/>
           <video width="750" height="500" controls textAlign='center' >
       <source src={video} type="video/mp4"/>
@@ -140,6 +143,7 @@ function App() {
           <h1>
           Crown-clothing Demo
           </h1>
+          <p>React, SCSS, Firebase Authentication, Easy-Peasy state management</p>
           <br/>
           <video width="750" height="500" controls textAlign='center' >
       <source src={video1} type="video/mp4"/>
