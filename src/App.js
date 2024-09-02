@@ -105,8 +105,8 @@ function App() {
       </div>
       <caption style={{textAlign:'center',display: 'block',
   margin: '0 auto'}}>
-      <img src={meandrubes} alt="Ruby and I" />
-      Ruby and I
+      <img src={meandrubes} alt="Me and Ruby" />
+      Me and Ruby
       </caption>
       <div>
       
